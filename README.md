@@ -44,3 +44,8 @@
 * **Telegram:** [@Galigin_D](https://t.me/Galigin_D)
 * **LinkedIn:** [dmitriy-galigin](https://www.linkedin.com/in/dmitriy-galigin/)
 * **Email:** delux.dmitriy@gmail.com
+### 📊 Демонстрационное BI-портфолио (Yandex DataLens)
+Проекты, демонстрирующие навыки построения интерактивной аналитики, работы с параметрами, фильтрами и вычисляемыми полями:
+* 🏢 [Аналитика рынка недвижимости](https://datalens.ru/lrbvxv86yva46) (Анализ ценообразования и распределения объектов)
+* 🎤 [Статистика конференций TED](https://datalens.ru/jov56cs0ixpk4) (Работа со сложными массивами текстовых и временных данных)
+* 🛒 [Дашборд продаж E-commerce](https://datalens.ru/fid19sn9dj7w0) (Визуализация классических метрик ритейла: выручка, динамика заказов)
